@@ -1,0 +1,1 @@
+Adds some helpful features to the default console logger in Adobe ExtendScript.
